@@ -1,4 +1,2 @@
-# log-util
-log utility
-
-Hi
+# go-util
+Basic utility functions

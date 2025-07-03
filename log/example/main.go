@@ -3,7 +3,7 @@ package main
 import (
 	"errors"
 
-	"prabha/go-util/log"
+	"github.com/prabha303-vi/log-util/log"
 )
 
 func main() {

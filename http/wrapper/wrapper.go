@@ -6,7 +6,7 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	"prabha/go-util/log"
+	"github.com/prabha303-vi/log-util/log"
 )
 
 const (

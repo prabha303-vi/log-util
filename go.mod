@@ -1,4 +1,4 @@
-module prabha/go-util
+module github.com/prabha303-vi/log-util
 
 go 1.23.4
 
